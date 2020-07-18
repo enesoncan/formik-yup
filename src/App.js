@@ -1,10 +1,10 @@
-import React from 'react';
-import Form from './components/Form';
+import React from "react";
+import Register from "./components/Register";
 
 function App() {
   return (
     <div className="App">
-      <Form />
+      <Register />
     </div>
   );
 }
